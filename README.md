@@ -174,8 +174,7 @@ placement/
 2. **Recruiters**: Post jobs, manage applications, schedule interviews
 3. **Administrators**: System management, user oversight, analytics
 
-## 📞 Support
-For technical support or questions about the system, please contact the development team.
+
 
 ---
-*Built with ❤️ for efficient campus placement management*
+*Built efficient campus placement management*
