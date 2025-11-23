@@ -1,4 +1,4 @@
-# Campus Placement Management System
+# college placement portal System
 
 ## 🎯 Project Overview
 A comprehensive web-based placement management system built for educational institutions to streamline the campus recruitment process. The platform connects students, recruiters, and administrators in a unified ecosystem for efficient job placement management.
