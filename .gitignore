@@ -1,4 +1,6 @@
-instance/admin.log
+instance/
+admin.log
 
 myenv
-
+flaskr/
+temp_Files/
