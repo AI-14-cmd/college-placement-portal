@@ -1,7 +1,6 @@
 import os
 import datetime
 from flask import Flask
-from flask_mail import Mail
 
 def create_app(test_config=None):
     app = Flask(__name__, instance_relative_config=True)

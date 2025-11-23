@@ -2,5 +2,6 @@ instance/
 admin.log
 
 myenv
-flaskr/
 temp_Files/
+__pycache__/
+temp_clone/
